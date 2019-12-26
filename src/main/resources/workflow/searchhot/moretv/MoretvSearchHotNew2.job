@@ -1,0 +1,4 @@
+#helios
+type=command
+mainclass=cn.whaley.ai.recommend.searchhot.moretv.SearchHotNew2
+command=sh ${working.dir}/../../bin/submit.sh ${mainclass} spark.properties moretvSearchHot.log xu.tong_MedusaSearchHotNew

@@ -1,0 +1,4 @@
+#helios
+type=command
+mainclass=cn.whaley.ai.recommend.searchhot.usee.SearchHotNew
+command=sh ${working.dir}/../../bin/submit.sh ${mainclass} spark.properties heliosSearchHot.log zhou.zhenyu_UseeSearchHot

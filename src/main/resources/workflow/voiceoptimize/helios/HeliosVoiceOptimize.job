@@ -1,0 +1,4 @@
+#helios
+type=command
+mainclass=cn.whaley.ai.recommend.voiceoptimize.helios.VoiceOptimize
+command=sh ${working.dir}/../../bin/submit.sh ${mainclass} spark.properties heliosVoiceOptimize.log xu.tong_HeliosVoiceOptimize

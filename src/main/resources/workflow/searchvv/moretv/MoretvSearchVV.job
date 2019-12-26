@@ -1,0 +1,4 @@
+#moretv搜索联想词
+type=command
+mainclass=cn.whaley.ai.recommend.searchvv.moretv.SearchVV
+command=sh ${working.dir}/../../bin/submit.sh ${mainclass} spark.properties searchVV.log xu.tong_MedusaSearchVV

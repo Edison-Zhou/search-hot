@@ -1,0 +1,4 @@
+#helios
+type=command
+mainclass=cn.whaley.ai.recommend.searchhot.kidsedu.SearchHot
+command=sh ${working.dir}/../../bin/submit.sh ${mainclass} spark.properties heliosSearchHot.log zhou.zhenyu_KidseduSearchHot

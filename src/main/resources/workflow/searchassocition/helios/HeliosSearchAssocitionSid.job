@@ -1,0 +1,4 @@
+#helios搜索联想词
+type=command
+mainclass=cn.whaley.ai.recommend.searchassocition.helios.SearchAssocitionSid
+command=sh ${working.dir}/../../bin/submit.sh ${mainclass} spark.properties SearchAssocitionSid.log xu.tong_HeliosSearchAssocitionSid

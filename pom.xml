@@ -13,7 +13,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <scala.version>2.11.6</scala.version>
     <scala.main.verison>2.11</scala.main.verison>
-    <spark.version>2.1.0</spark.version>
+    <spark.version>2.4.8</spark.version>
     <assembly-desc>src/assembly/assembly-dir.xml</assembly-desc>
     <project.build.name>SearchRecommendNew-${project.version}</project.build.name>
     <doraemon.version>1.1-SNAPSHOT</doraemon.version>
